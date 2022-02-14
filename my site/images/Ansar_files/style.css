@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    
+    font-family: 'Merriweather', serif;
+    margin: 50px auto 0 auto;
+    
+}
+h1{
+    line-height: 2rem;
+    font-family: 'Sacramento', cursive; 
+    margin: 1em;
+    margin-bottom: 0;
+    text-align: center;
+   padding-top: 1.5em; 
+   font-size: 5.625rem;
+   color: rgb(255, 255, 255);
+}
+.intro{
+    font-family: 'Sacramento', cursive;
+    height: 70em;
+   
+    background-image: url(images/Coding-Becomes-Criminal.jpg);
+   
+    position: relative;
+    bottom: 10em;
+}
+.web{
+    font-weight: normal;
+   margin:0;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+}
+h3{
+    color: rgb(64, 225, 253);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+.c,.html,.css
+{
+    width: 50%;
+    margin: 200px auto 200px auto;
+    text-align: left;
+    
+    line-height: 2;
+}
+.cimage,.cssimage{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+.htmlimage{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+.cskill,.cssskill,.htmlskill,.hello{
+   font-size: 25px;
+}
+
+   
